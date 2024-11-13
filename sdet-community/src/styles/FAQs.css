@@ -1,0 +1,31 @@
+/* Style for FAQ section */
+#faq {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px 15px;
+}
+
+.accordion .card-header {
+  background-color: #f8f9fa;
+  cursor: pointer;
+}
+
+.accordion .card-header:hover {
+  background-color: #e2e6ea;
+}
+
+.accordion .card-body {
+  background-color: #fff;
+  padding: 15px;
+  font-size: 1rem;
+}
+
+.accordion .card {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #333;
+}

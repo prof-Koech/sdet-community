@@ -1,0 +1,37 @@
+/* MemberProfiles.css */
+
+/* Style for the member image */
+.member-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #007bff; /* Optional: Add a border around the image */
+  }
+  
+  /* Card styling */
+  .card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Card text styling */
+  .card-title, .card-text {
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-body {
+    padding: 1.25rem;
+  }
+  

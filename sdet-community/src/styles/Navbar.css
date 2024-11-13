@@ -1,0 +1,12 @@
+/* In your CSS file (e.g., App.css) */
+.nav-link {
+    color: white; /* Default color */
+    font-size: 1.2rem; /* Adjust font size */
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition */
+  }
+  
+  .nav-link:hover {
+    color: #f8f9fa; /* Change color on hover */
+    text-decoration: underline; /* Optional: adds underline effect */
+  }
+  

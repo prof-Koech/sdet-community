@@ -1,0 +1,52 @@
+/* src/styles/Footer.css */
+
+footer {
+  background-color: #343a40; /* Dark background for footer */
+  color: white;
+}
+
+footer h5 {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+footer .nav-link {
+  color: white; /* Make sure links are white */
+  text-decoration: none;
+}
+
+footer .nav-link:hover {
+  color: #17a2b8; /* Light teal color on hover */
+}
+
+footer .nav-item {
+  margin: 0 15px;
+}
+
+footer p {
+  margin-top: 20px;
+  font-size: 0.9rem;
+}
+
+footer .text-light {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+footer .text-light:hover {
+  color: #17a2b8; /* Light teal color on hover */
+}
+
+footer .fa {
+  transition: transform 0.3s ease;
+}
+
+footer .fa:hover {
+  transform: scale(1.2); /* Icon zoom effect on hover */
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Add spacing between the sections */
+  margin-top: 30px;
+}
