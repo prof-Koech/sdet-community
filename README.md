@@ -32,12 +32,15 @@ Email address:info@testcommunity.org
  FAQs section
  News & Announcements/Events section
 Upcoming webinar:https://forms.gle/AXmWnmzzdQ5jhtVc8
+
  Partners section
 (Safaricom, ISTQB Kenya)
+
  Member Profiles & Bios section
 1.COLLINS KIPKOECH ,QA Engineer
 2.ANGELA KANDIE, Senior QA Engineer
 3.RAPHAEL NYANGENYA,RAPHAEL NYANGENYA
+
 
  Blog. section
 Embed twitter posts
